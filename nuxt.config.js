@@ -1,4 +1,5 @@
 export default {
+  target: 'static', // ! change later
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'paley-blog',
