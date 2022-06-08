@@ -1,5 +1,8 @@
 export default {
   target: 'static', // ! change later
+  router: {
+    base: '/paley-website/'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'paley-blog',

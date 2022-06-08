@@ -1,10 +1,10 @@
 <template>
-  <div class="flex flex-row gap-4 py-2 px-8">
+  <a href="/paley-website/posts/asdf" class="flex flex-row gap-4 py-2 px-8">
             <div
               style="box-shadow: 0px 0px 84px 3px rgba(255, 0, 0, 0.6)"
               class="w-2 rounded-full bg-rose-600"
             ></div>
-            <div class="flex flex-col text-gray-900 p-3 gap-3">
+            <div class="flex flex-col text-left text-gray-900 p-3 gap-3">
               <h3 class="font-display font-black text-3xl" v-text="title"/>
               <p class="text-2xl" v-text="desc" />
             </div>
@@ -13,7 +13,7 @@
               :src="imgURL"
             />
             
-          </div>
+          </a>
 </template>
 
 <script>
