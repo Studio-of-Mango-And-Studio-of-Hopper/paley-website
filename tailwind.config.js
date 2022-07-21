@@ -1,4 +1,4 @@
-const colors = require('tailwindcss/colors')
+const colors = require("tailwindcss/colors");
 
 module.exports = {
   content: [
@@ -18,9 +18,9 @@ module.exports = {
       fontFamily: {
         body: ["Georgia"],
         display: ['"Playfair Display"'],
-        cursive: ['"Dancing Script"']
-      }
+        cursive: ['"Dancing Script"'],
+      },
     },
   },
-  plugins: [],
-}
+  plugins: [require("@tailwindcss/typography")],
+};

@@ -1,5 +1,5 @@
 <template>
-  <a href="/paley-website/posts/asdf" class="flex flex-row gap-4 px-8 py-2">
+  <a href="/paley-website/posts/asdf" class="flex flex-row gap-4 px-8 py-4">
     <div style="box-shadow: 0px 0px 84px 3px rgba(255, 0, 0, 0.6)" class="w-2 rounded-full bg-rose-600"></div>
     <div class="flex flex-col gap-3 p-3 text-left text-gray-900">
       <h3 class="text-3xl font-black font-display" v-text="title" />
