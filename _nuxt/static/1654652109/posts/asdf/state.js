@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fpaley-website\u002F_nuxt\u002Fstatic\u002F1654652109",layout:"post",error:a,serverRendered:true,routePath:"\u002Fposts\u002Fasdf",config:{_app:{basePath:"\u002Fpaley-website\u002F",assetsPath:"\u002Fpaley-website\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"644d80c1"}}}}(null));
